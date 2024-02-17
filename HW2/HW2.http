@@ -1,0 +1,5 @@
+@HW2_HostAddress = http://localhost:8000
+
+GET {{HW2_HostAddress}}/health/
+Accept: application/json
+###
